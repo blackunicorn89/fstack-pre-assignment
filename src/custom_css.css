@@ -1,0 +1,20 @@
+#homelist {
+	list-style-type: none;
+}
+
+#boxlist {
+	list-style-type: circle;
+}
+
+#innerList {
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+#homeUsername {
+	color: #C0C0C0;
+	font-style: italic;
+	
+}
+
+
